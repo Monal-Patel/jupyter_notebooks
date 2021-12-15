@@ -1,2 +1,2 @@
-# python_mwe
-Minimum working examples in python
+# jupyter_notebooks
+My Jupyter notebooks
