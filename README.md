@@ -1,7 +1,4 @@
 # Jupyter Notebooks
-My Jupyter notebooks
-
-Inspired by https://github.com/barbagroup/CFDPython , https://github.com/clawpack/riemann_book/tree/FA16, https://github.com/ketch/numerical_linear_algebra_notebooks, https://github.com/ketch/finite-difference-course/
 
 ## Execute in the cloud
 Notebooks can run on the cloud using [binder](https://mybinder.org/) (free service). Simply navigate to:
