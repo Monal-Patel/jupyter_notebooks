@@ -1,4 +1,4 @@
-Curate list of opensource codes
+Curate list of open-source sofware/code
 
 ## Finite volume 
 https://github.com/davidt964/Fluid-Jupyter-Notebooks
